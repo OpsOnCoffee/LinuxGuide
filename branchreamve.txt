@@ -1,0 +1,5 @@
+git branch -m newbranchname
+akdnakda
+ajdjakda
+
+:wq!
